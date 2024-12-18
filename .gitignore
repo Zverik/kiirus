@@ -1,0 +1,4 @@
+*.osm
+*.osm.pbf
+*.pmtiles
+.venv/

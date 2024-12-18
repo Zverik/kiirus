@@ -1,0 +1,17 @@
+{
+	"layers": {
+		"road":      { "minzoom":  8, "maxzoom": 14, "simplify_below": 13, "simplify_level": 0.0003, "simplify_ratio": 2.0 },
+		"road_name": { "minzoom": 10, "maxzoom": 14 }
+	},
+	"settings": {
+		"minzoom": 8,
+		"maxzoom": 14,
+		"basezoom": 14,
+		"include_ids": false,
+		"name": "Kiirusepiirangud",
+		"version": "0.1",
+		"description": "Speed limit tiles",
+    "bounding_box": [24.3916, 59.2360, 24.9857, 59.5319],
+		"compress": "gzip"
+	}
+}
